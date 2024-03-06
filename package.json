@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.29.0",
+    "@metaplex-foundation/beet": "^0.7.2",
+    "@metaplex-foundation/mpl-hydra": "^1.0.1",
+    "@metaplex-foundation/umi": "^0.9.1",
+    "@metaplex-foundation/umi-bundle-defaults": "^0.9.1",
+    "@metaplex-foundation/umi-signer-wallet-adapters": "^0.9.1",
+    "@solana-mobile/mobile-wallet-adapter-protocol-web3js": "^2.1.2",
+    "@solana/spl-token": "^0.4.1",
+    "@solana/web3.js": "^1.90.1",
+    "@strata-foundation/spl-utils": "^3.4.5",
+    "ava": "^6.1.2",
+    "bs58": "^5.0.0",
+    "dotenv": "^16.4.5"
+  }
+}
